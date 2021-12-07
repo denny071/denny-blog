@@ -103,11 +103,12 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo:
-    github: git@github.com:denny071/denny071.github.io.git
-    gitee: git@gitee.com:ming071/blog.git
+- type: git
+  repo: git@github.com:denny071/denny071.github.io.git
   branch: master
+- type: git
+  repo: git@gitee.com:ming071/blog.git
+  branch: html
 
 # Search 
 search:
