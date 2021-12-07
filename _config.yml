@@ -4,9 +4,9 @@
 
 # Site
 title: Denny的博客
-subtitle: 'Denny的博客'
-description: 'Denny的博客，技术分享'
-keywords: php,mysql,nginx
+subtitle: '一个普普通通的码农'
+description: 'Denny的博客，技术分享、资料整理'
+keywords: php,mysql,nginx,web,vue
 author: Denny
 language: zh-cn
 timezone: 'Asia/Shanghai'
